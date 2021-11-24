@@ -1,0 +1,33 @@
+1 题目:在Fireworks8中，图形文件可分为两种类型，它们是（）
+答案:像素,路径
+
+2 题目:关于Fireworks8文档属性颜色设置包含（）
+答案:shift,ctrl,空格
+
+3 题目:下面关于工具软件Fireworks的说法正确的是（）
+答案:向下拼合图层,合并图层,合并编组图层,合并链接图层
+
+4 题目:在Fireworks8中，图形文件可分为两种类型，它们是（）
+答案:像素,路径
+
+5 题目:在Fireworks8中，关于热区的说法正确的是（）
+答案:实际像素,打印尺寸,满画布
+
+6 题目:在Fireworks中，画布的属性设置包括（）
+答案:蒙板相当于一个8位灰阶的Alpha通道,在蒙板中，黑色表示全部遮住，白色表示全部显示,在蒙板中，白色表示全部遮住，黑色表示全部显示
+
+7 题目:Fireworks中关于图案填充下列说法正确的是（）
+答案:3秒,4秒
+
+8 题目:Fireworks中用来创建颜色的工具是（）
+答案:Reveal in Project,Edit Original,Edit
+
+9 题目:Fireworks中指针工具的作用是（）
+答案:在Import窗口中选框需要导入的图片,在Import窗口中启动Numbered Still选项
+
+10 题目:Fireworks中样本面板的作用是（）
+答案:Selection Tool,Razor Tool,Pen Tool
+
+11 题目:Fireworks中历史记录面板的作用是（）
+答案:Alt,Ctrl
+
